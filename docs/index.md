@@ -153,12 +153,12 @@ Methods, tools, or approaches we tried:
 ![Data Graph](https://cdn.imgchest.com/files/7889801067a7.jpg)
 ![Data Graph](https://cdn.imgchest.com/files/709f96acc703.jpg)
 ![Data_Graph](https://cdn.imgchest.com/files/541f89482607.jpg)
+![Data Graph](https://cdn.imgchest.com/files/8982ae6fa3b6.jpg)
 
-*The data graph shows a downward trend of discharge and flow, this matters because it could indicate that the water levels might be decreasing as time passes by.*
+*The data graph shows a downward trend of discharge and flow on the white river near Kadoka. It also implies that the discharge and flow om the white river near oglala is increasing.*
 
-### Failed attempts and useful obstacles
-
-- ...
+### Useful obstacles
+-The Data was confusing. We also ran into the problem of finding researchs about our topic. It taught us how to look correctly and how to understand complex figures.
 
 !!! info "Want to go further? CubeDynamics is optional"
     CubeDynamics can support reproducible labeled-array workflows, but it is not required for a successful project. As of September 2026, the official project is prerelease and has no public PyPI or GitHub Release installation. Use only a facilitator-provided, checksum-verified setup, keep the scientific question ahead of the software, and see the [optional CubeDynamics guide](instructions/cubedynamics.md).
@@ -168,10 +168,10 @@ Methods, tools, or approaches we tried:
 !!! note "Artifact first"
     Link the strongest artifact directly. If it is incomplete, say what works, what does not, and what another team would need to continue.
 
-- **Main artifact:** ...
+- **Main artifact:** ![Data Artifact](https://cdn.imgchest.com/files/0f1d951f3f28.png)
 - **Code or notebook:** ...
-- **Reusable data or output:** ...
-- **How to reproduce or continue:** ...
+- **Reusable data or output:** ![Data graph](https://cdn.imgchest.com/files/cef6019c0914.jpg)
+- **How to reproduce or continue:** To continue this research, we recommend researching more rivers other than the ones we have studied.
 
 ## What We Learned 📣 { #what-we-learned .oasis-report-out-section }
 
