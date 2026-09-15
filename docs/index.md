@@ -152,7 +152,7 @@ Methods, tools, or approaches we tried:
 
 ![Data Graph](https://cdn.imgchest.com/files/7889801067a7.jpg)
 
-*This shows a downward trend of discharge and flow, this matters because it could indicate that we might experience droughts often in the future.*
+*The data graph shows a downward trend of discharge and flow, this matters because it could indicate that we might experience droughts often in the future.*
 
 ### Failed attempts and useful obstacles
 
