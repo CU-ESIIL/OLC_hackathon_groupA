@@ -42,15 +42,15 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Role |
 
-| John Anciano | LWS | john.a@littlewound.us |Editor|
+| John Anciano | LWS | john.a@littlewound.us | Editor |
 
-| Inyan Janis | LWS | inyan.j@littlewound.us |Researcher|
+| Inyan Janis | LWS | inyan.j@littlewound.us | Researcher |
 
-| Zanje Bernolia | LWS | zanje@littlewound.us |Editor|
+| Zanje Bernolia | LWS | zanje@littlewound.us | Editor |
 
-| Tatanka Rooks | LWS | tatanka.r@littlewound.us |Researcher|
+| Tatanka Rooks | LWS | tatanka.r@littlewound.us | Researcher |
 
-| Parker Janis | LWS | parker.j@littlewound.us |Researcher|
+| Parker Janis | LWS | parker.j@littlewound.us | Researcher |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
