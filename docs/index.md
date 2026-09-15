@@ -151,6 +151,8 @@ Methods, tools, or approaches we tried:
 ### Working visual or output
 
 ![Data Graph](https://cdn.imgchest.com/files/7889801067a7.jpg)
+![Data Graph](https://cdn.imgchest.com/files/709f96acc703.jpg)
+![Data_Graph](https://cdn.imgchest.com/files/541f89482607.jpg)
 
 *The data graph shows a downward trend of discharge and flow, this matters because it could indicate that the water levels might be decreasing as time passes by.*
 
