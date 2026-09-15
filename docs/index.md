@@ -18,7 +18,7 @@ public_mode_toggle: true
 !!! note "First edit"
     Replace the page title and heading with your project name. Add a short subtitle that tells visitors what you are exploring.
 
-    [Edit the team page in Markdown](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+    [Edit the team page in Markdown](https://github.com/CU-ESIIL/OLC_hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 *One sentence describing the question, place, or possibility your team is exploring.*
 
