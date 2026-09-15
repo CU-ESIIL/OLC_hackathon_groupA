@@ -22,7 +22,7 @@ public_mode_toggle: true
 
 *Are we truly losing our water or is it just our growing paranoia? This research examines whether public anxiety aligns with scientific reality or if we have genuine cause for alarm.*
 
-![Team hero image](https://media.istockphoto.com/id/486755202/photo/torrent.jpg?s=612x612&w=0&k=20&c=sgaOAV2v--UZJq4K0ogph_5sAhwJ7IHSV8jgRFZoXbQ=)
+![Team hero image]([https://media.istockphoto.com/id/486755202/photo/torrent.jpg?s=612x612&w=0&k=20&c=sgaOAV2v--UZJq4K0ogph_5sAhwJ7IHSV8jgRFZoXbQ=](https://images.pexels.com/photos/957929/waterfall-river-cold-clear-957929.jpeg))
 
 !!! note "Replace the hero image"
     Upload a wide public-safe image to `docs/assets/hero/` and replace `hero.png`, or update the Markdown path above. Write alt text that explains the image.
