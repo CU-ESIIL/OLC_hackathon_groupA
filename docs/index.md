@@ -41,8 +41,11 @@ public_mode_toggle: true
     [Edit People](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 | Name | Affiliation | Contact | Starting role |
-|---|---|---|---|
-|  |  |  |  |
+|John Anciano|LWS|John.a@littlewound.us|Editor|
+|Inyan Janis|LWS|Inyan.j@littlewound.us|Researcher|
+|Zanje Bernolia|LWS|Zanje@littlewound.us|Editor|
+|Tatanka Rooks|LWS|Tatanka.r@littlewound.us|Researcher|
+|Parker Janis|LWS|Parker.j@littlewound.us|Researcher|
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
