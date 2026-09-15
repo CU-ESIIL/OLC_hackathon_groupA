@@ -51,9 +51,9 @@ public_mode_toggle: true
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- We are all males
+- We like great food
+- We all attend Little Wound School
 
 Our decision rule:
 
