@@ -22,7 +22,7 @@ public_mode_toggle: true
 
 *One sentence describing the question, place, or possibility your team is exploring.*
 
-![Team hero image](assets/hero/https://media.istockphoto.com/id/486755202/photo/torrent.jpg?s=612x612&w=0&k=20&c=sgaOAV2v--UZJq4K0ogph_5sAhwJ7IHSV8jgRFZoXbQ=)
+![Team hero image](https://media.istockphoto.com/id/486755202/photo/torrent.jpg?s=612x612&w=0&k=20&c=sgaOAV2v--UZJq4K0ogph_5sAhwJ7IHSV8jgRFZoXbQ=)
 
 !!! note "Replace the hero image"
     Upload a wide public-safe image to `docs/assets/hero/` and replace `hero.png`, or update the Markdown path above. Write alt text that explains the image.
