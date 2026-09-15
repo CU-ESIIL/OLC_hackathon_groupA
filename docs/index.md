@@ -27,7 +27,7 @@ public_mode_toggle: true
 !!! note "Replace the hero image"
     Upload a wide public-safe image to `docs/assets/hero/` and replace `hero.png`, or update the Markdown path above. Write alt text that explains the image.
 
-    [Open the hero-image folder](https://github.com/CU-ESIIL/hackathon_group_OASIS/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
+    [Open the hero-image folder](https://github.com/CU-ESIIL/hackathon_groupA/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
 
 [See the completed OLC example](olc-example.md){ .md-button .md-button--primary }
 [See the completed fire example](example.md){ .md-button }
@@ -38,7 +38,7 @@ public_mode_toggle: true
 !!! note "Day 1 — quick introductions"
     Add one short row per teammate. Share what you know, what you hope to learn, and which role you can take first. Roles can change as the work changes.
 
-    [Edit People](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+    [Edit People](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 | Name | Affiliation | Contact | Starting role |
 |---|---|---|---|
@@ -70,7 +70,7 @@ Our decision rule:
     - **Data Investigator:** compare evidence, coverage, or assumptions.
     - **Technical Extender:** test or extend a reproducible method.
 
-    [Edit the question and evidence](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+    [Edit the question and evidence](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 Our working question:
 
@@ -103,7 +103,7 @@ People who might use, question, or improve this work:
 !!! note "Representation → Build"
     Choose the smallest useful artifact: a figure, comparison, map, notebook, workflow, model, prototype, educational resource, or clearly documented attempt. Scientific usefulness matters more than software complexity.
 
-    [Edit the intended build](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+    [Edit the intended build](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 By the end of the Hackathon, we tried to make:
 
@@ -149,7 +149,7 @@ Methods, tools, or approaches we tried:
 |---|---|---|
 | ... | ... | ... |
 
-[Open shared code](https://github.com/CU-ESIIL/hackathon_group_OASIS/tree/main/code){ .md-button target="_blank" rel="noopener" }
+[Open shared code](https://github.com/CU-ESIIL/hackathon_groupA/tree/main/code){ .md-button target="_blank" rel="noopener" }
 
 ### Working visual or output
 
@@ -179,7 +179,7 @@ Methods, tools, or approaches we tried:
 !!! note "Interpret"
     Separate the observation from the interpretation. Point to the figure, analysis, comparison, or artifact supporting every main claim.
 
-    [Edit the learning and main figure](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+    [Edit the learning and main figure](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 **Observation — what happened:** ...
 
@@ -211,7 +211,7 @@ What we tried, what happened, and what another team should know:
 !!! note "Uncertainty is a result"
     Name the largest evidence gap, assumption, alternative interpretation, or validation need. A precise limit is more useful than false certainty.
 
-    [Edit the uncertainty](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+    [Edit the uncertainty](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 What these data or artifacts cannot tell us:
 
@@ -231,7 +231,7 @@ What would strengthen or challenge our interpretation:
 !!! note "Stewardship → Share"
     Choose one next technical step and one next relationship, interpretation, or review step. Keep them specific enough that another person could act.
 
-    [Edit next steps](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+    [Edit next steps](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 Next technical step:
 
