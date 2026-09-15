@@ -104,11 +104,11 @@ Anybody that cares for our way of life.
 
 By the end of the Hackathon, we tried to make:
 
-...
+We have made the dataset of the water levels in White river from 1940s to present day.
 
 Our chosen pathway and why it fit:
 
-...
+We took and compiled the water data of White river to analyze the trends. We also researched statistical tables and daily mean data from the White River near Kadoka and Oglala. After compiling the information in a Google sheet, and used AI to help us create a graph.
 
 ![Working notes, sketch, or whiteboard](assets/whiteboards/hackathon_working_notes.svg)
 
