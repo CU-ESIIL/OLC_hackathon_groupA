@@ -43,7 +43,8 @@ public_mode_toggle: true
 | Name | Affiliation | Contact | Role |
 | ----------- | ---------- | ----------- | ----------- |        
 | Matthew Janis | OLC | mljanis@olc.edu | Advisor |                                                                                                            
-| Inyan Janis | LWS | inyan.j@littlewound.us | Researcher |                                                                                                     | Tatanka Rooks | LWS | tatanka.r@littlewound.us | Researcher |                                                                                           
+| Inyan Janis | LWS | inyan.j@littlewound.us | Researcher |
+| Tatanka Rooks | LWS | tatanka.r@littlewound.us | Researcher |                                                                                           
 | Parker Janis | LWS | parker.j@littlewound.us | Researcher |
 | John Anciano | LWS | john.a@littlewound.us | Editor |                                                          
 | Zanje Bernolia | LWS | zanje@littlewound.us | Editor |                                                                        
