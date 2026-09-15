@@ -20,7 +20,7 @@ public_mode_toggle: true
 
     [Edit the team page in Markdown](https://github.com/CU-ESIIL/OLC_hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
-*One sentence describing the question, place, or possibility your team is exploring.*
+*Are we truly losing our water or is it just our growing paranoia? This research examines whether public anxiety aligns with scientific reality or if we have genuine cause for alarm.*
 
 ![Team hero image](https://media.istockphoto.com/id/486755202/photo/torrent.jpg?s=612x612&w=0&k=20&c=sgaOAV2v--UZJq4K0ogph_5sAhwJ7IHSV8jgRFZoXbQ=)
 
