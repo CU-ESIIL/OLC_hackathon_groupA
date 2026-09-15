@@ -58,7 +58,7 @@ Our team norms:
 
 - We are all males
 - We like great food
-- We all attend Little Wound School
+- We love drinking water
 
 Our decision rule:
 
