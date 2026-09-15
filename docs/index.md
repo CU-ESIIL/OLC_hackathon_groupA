@@ -1,5 +1,5 @@
 ---
-title: Scary truth about our water
+title: Alarming Truth about our Water Quantity
 public_mode_toggle: true
 ---
 
