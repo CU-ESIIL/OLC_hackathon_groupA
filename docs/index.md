@@ -41,13 +41,13 @@ public_mode_toggle: true
     [Edit People](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 | Name | Affiliation | Contact | Role |
-| ----------- | ---------- | ----------- | ----------- |                                                
-| John Anciano | LWS | john.a@littlewound.us | Editor |                                                                                                      
-| Inyan Janis | LWS | inyan.j@littlewound.us | Researcher |                                                                                                  
-| Zanje Bernolia | LWS | zanje@littlewound.us | Editor |                                                                                               
-| Tatanka Rooks | LWS | tatanka.r@littlewound.us | Researcher |                                                                                
+| ----------- | ---------- | ----------- | ----------- |        
+| Matthew Janis | OLC | mljanis@olc.edu | Advisor |                                                                                                            
+| Inyan Janis | LWS | inyan.j@littlewound.us | Researcher |                                                                                                     | Tatanka Rooks | LWS | tatanka.r@littlewound.us | Researcher |                                                                                           
 | Parker Janis | LWS | parker.j@littlewound.us | Researcher |
-| Matthew Janis | OLC | mljanis@olc.edu | Advisor |                                                          
+| John Anciano | LWS | john.a@littlewound.us | Editor |                                                          
+| Zanje Bernolia | LWS | zanje@littlewound.us | Editor |                                                                        
+                                                          
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
