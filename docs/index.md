@@ -70,14 +70,7 @@ Be respectful and keep endlessly being curious.
 ## Our Question 📣 { #project-question .oasis-report-out-section }
 
 !!! note "Question → Evidence"
-    Write one question narrow enough to investigate during the Hackathon. Name what would count as progress. The question can change when the evidence shows it should.
-
-    The three OLC pathways are parallel options, not ability levels:
-
-    - **Guided Explorer:** explain what available evidence shows and does not show.
-    - **Data Investigator:** compare evidence, coverage, or assumptions.
-    - **Technical Extender:** test or extend a reproducible method.
-
+    Is our water thinning out?
     [Edit the question and evidence](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 Our working question:
