@@ -87,13 +87,11 @@ What would count as progress by noon on September 16:
 !!! note "Connect the work to people without overclaiming"
     Explain the potential value and intended audience. Do not describe an impact, partnership, consultation, or endorsement that has not happened.
 
-This matters because:
-
-...
+This matters because water, mni wiconi holds a specific cultural importance to us. We should be aware of our water's quantity, quality, and overall health.
 
 People who might use, question, or improve this work:
 
-...
+Anybody that cares for our way of life.
 
 ## What We Tried to Build 📣 { #what-we-tried-to-build .oasis-report-out-section }
 
