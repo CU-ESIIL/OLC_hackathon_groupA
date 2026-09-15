@@ -40,7 +40,7 @@ public_mode_toggle: true
 
     [Edit People](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
-| Name | Affiliation | Contact | Starting role |
+| Name | Affiliation | Contact | Role |
 
 |John Anciano|LWS|John.a@littlewound.us|Editor|
 
