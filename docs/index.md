@@ -57,7 +57,7 @@ Our team norms:
 
 Our decision rule:
 
-...
+Be respectful and keep endlessly being curious.
 
 ## Our Question 📣 { #project-question .oasis-report-out-section }
 
