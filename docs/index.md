@@ -41,7 +41,7 @@ public_mode_toggle: true
     [Edit People](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 | Name | Affiliation | Contact | Role |
-| ----------- | ----------- | ----------- | ----------- |                                                
+| ----------- | ---------- | ----------- | ----------- |                                                
 | John Anciano | LWS | john.a@littlewound.us | Editor |                                                                                                      
 | Inyan Janis | LWS | inyan.j@littlewound.us | Researcher |                                                                                                  
 | Zanje Bernolia | LWS | zanje@littlewound.us | Editor |                                                                                               
