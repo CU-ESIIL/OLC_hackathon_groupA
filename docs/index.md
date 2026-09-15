@@ -73,9 +73,9 @@ Be respectful and keep endlessly being curious.
     Is our water thinning out?
     [Edit the question and evidence](https://github.com/CU-ESIIL/hackathon_groupA/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
-Our working question:
+Our question:
 
-...
+Is our water thinning out?
 
 What would count as progress by noon on September 16:
 
