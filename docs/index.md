@@ -46,7 +46,8 @@ public_mode_toggle: true
 | Inyan Janis | LWS | inyan.j@littlewound.us | Researcher |                                                                                                  
 | Zanje Bernolia | LWS | zanje@littlewound.us | Editor |                                                                                               
 | Tatanka Rooks | LWS | tatanka.r@littlewound.us | Researcher |                                                                                
-| Parker Janis | LWS | parker.j@littlewound.us | Researcher |                                                                                              
+| Parker Janis | LWS | parker.j@littlewound.us | Researcher |
+| Matthew Janis | OLC | mljanis@olc.edu | Advisor |                                                          
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
