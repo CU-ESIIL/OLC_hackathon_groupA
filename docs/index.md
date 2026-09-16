@@ -236,11 +236,11 @@ Our interpretation would be strengthened or challenged if we got actual data fro
 
 Next technical step:
 
-...
+Monitoring and gathering data throughout the rivers in the reservation, and monitoring precipitation.
 
 Next stewardship or collaboration step:
 
-...
+We could partner with USGS to build monitoring stations in our creeks and streams to achieve this. 
 
 ## Who Should Be Involved Next { #who-should-be-involved-next }
 
