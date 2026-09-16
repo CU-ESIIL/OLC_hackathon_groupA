@@ -75,10 +75,6 @@ Our question:
 
 Is our water thinning out?
 
-What would count as progress by noon on September 16:
-
-...
-
 !!! question "Sovereignty checkpoint 1 — Who framed the question?"
     Who helped define it? Whose priorities does it reflect? Who might frame it differently? Do the available public data fit the question, or are they merely convenient?
 
