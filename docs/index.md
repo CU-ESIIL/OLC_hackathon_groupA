@@ -187,9 +187,10 @@ Methods, tools, or approaches we tried:
 
 **Interpretation — It could mean that streams across the reservation is joining into the white river and flowing away to the greater US.:** ...
 
-![Main result or most useful artifact](assets/figures/main_result.png)
-
-*Figure 1. Write a claim-oriented caption: what pattern or result should a reader see, and what evidence boundary matters?*
+![Main result or most useful artifact](https://cdn.imgchest.com/files/db5ab54c9f6f.jpg)
+![Main result or most useful artifact](https://cdn.imgchest.com/files/4dea3ca61801.png)
+![Main result or most useful artifact](https://cdn.imgchest.com/files/e53b36ce2206.png)
+![Main result or most useful artifact](https://cdn.imgchest.com/files/792258514c27.png)
 
 ### Claim ladder
 
@@ -204,7 +205,7 @@ Methods, tools, or approaches we tried:
 
 What we tried, what happened, and what another team should know:
 
-...
+We tried to make it more understandable and more in depth about the topics we're trying to communicate in this project. We couldn't be more in depth, mainly because we needed more information about the streams/rivers on the reservations because we lack information on those topics. Don't overcomplicate it, keep the work simple.
 
 ## What Remains Uncertain 📣 { #what-remains-uncertain .oasis-report-out-section }
 
@@ -215,11 +216,11 @@ What we tried, what happened, and what another team should know:
 
 What these data or artifacts cannot tell us:
 
-...
+The data cannot tell us the full story if we are losing water or not. It only shows us how the water level raises and decreases. 
 
 What would strengthen or challenge our interpretation:
 
-...
+Our interpretation would be strengthened or challenged if we got actual data from the streams in the reservation.
 
 !!! question "Sovereignty checkpoint 3 — Before sharing"
     Who could be affected by this interpretation? Who is absent? Who should help interpret or review a continuation? Is everything on this page appropriate for public GitHub?
