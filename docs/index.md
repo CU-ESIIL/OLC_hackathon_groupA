@@ -258,9 +258,8 @@ What those people should help frame, interpret, question, or review:
     Add stable source links, licenses or terms, citations, and concise reproduction notes. Run the [site completion coach](_site_health.md) for reminders; it is an editing aid, not scientific, ethical, sovereignty, or community approval.
 
 - **Source curriculum:** [OLC Climate Resiliency and Digital Sovereignty Learning Lab](https://github.com/olc-techsupport/Education-Climate-Resiliency-Digital-Sovereignty) [@olcClimateResiliency]
-- **Code/notebooks:** ...
+- **Code/notebooks:** GitHub
 - **Data and terms:** [USGS DATA](https://waterdata.usgs.gov/monitoring-location/USGS-06447000/statistics)
-- **Reuse notes:** ...
 
 If you use this template, cite the OASIS repository [@oasisProjectTemplate] and preserve attribution for every external dataset, method, and artifact.
 
