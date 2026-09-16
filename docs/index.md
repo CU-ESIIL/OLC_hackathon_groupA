@@ -246,11 +246,11 @@ We could partner with USGS to build monitoring stations in our creeks and stream
 
 Potential roles or perspectives—not claims of consultation or approval:
 
-- ...
+- Collaboration of OLC, USGS, Jason Tinate, and Matthew Janis.
 
 What those people should help frame, interpret, question, or review:
 
-...
+- Provide data and create graphs, timeline, analyze data, and report.
 
 ## Code, Data, Citation and Reuse { #code-data-citation-and-reuse }
 
