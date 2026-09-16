@@ -167,7 +167,6 @@ Methods, tools, or approaches we tried:
     Link the strongest artifact directly. If it is incomplete, say what works, what does not, and what another team would need to continue.
 
 - **Main artifact:** ![Data Artifact](https://cdn.imgchest.com/files/0f1d951f3f28.png)
-- **Code or notebook:** ...
 - **Reusable data or output:** ![Data graph](https://cdn.imgchest.com/files/cef6019c0914.jpg)
 - **How to reproduce or continue:** To continue this research, we recommend researching more rivers other than the ones we have studied.
 
