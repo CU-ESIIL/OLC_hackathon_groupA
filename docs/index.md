@@ -116,7 +116,8 @@ We took and compiled the water data of White river to analyze the trends. We als
 
 | Dataset | Source | Place | Period | What it measures |
 |---|---|---|---|---|
-| USGS Statistics for daily mean | USGS | White River, Near Kadoka SD | 1942-2025 | avg, daily mean discharge |
+| USGS Statistics for daily mean | USGS | White River, Near Kadoka, SD | 1942-2025 | avg, daily mean discharge |
+| USGS Statistics for daily mean | USGS | White River, Near Oglala, SD | 1942-2025 | avg, daily mean discharge |
 
 
 !!! warning "Public data is a boundary, not blanket permission"
