@@ -144,7 +144,8 @@ Methods, tools, or approaches we tried:
 
 | Approach | What we did | What happened |
 |---|---|---|
-| ... | ... | ... |
+| Gathering monthly data in USGS | Compiled the data to a month to decade long graph | We observed that water discharge is increasing near Oglala, contrary to the decrease near Kadoka |
+
 
 [Open shared code](https://github.com/CU-ESIIL/hackathon_groupA/tree/main/code){ .md-button target="_blank" rel="noopener" }
 
