@@ -120,7 +120,7 @@ We took and compiled the water data of White river to analyze the trends. We als
 
 | Dataset | Source | Place | Period | What it measures |
 |---|---|---|---|---|
-| ... | ... | ... | ... | ... |
+| USGS Statistics for daily mean | USGS | White River, Near Kadoka SD | 1942-2025 | avg, daily mean discharge |
 
 !!! warning "Public data is a boundary, not blanket permission"
     This Hackathon uses public datasets so teams can focus on environmental data science, building, interpretation, and communication during a short event. Public availability does not mean the data represent every relevant perspective or authorize every interpretation or use.
