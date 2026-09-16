@@ -122,6 +122,7 @@ We took and compiled the water data of White river to analyze the trends. We als
 |---|---|---|---|---|
 | USGS Statistics for daily mean | USGS | White River, Near Kadoka SD | 1942-2025 | avg, daily mean discharge |
 
+
 !!! warning "Public data is a boundary, not blanket permission"
     This Hackathon uses public datasets so teams can focus on environmental data science, building, interpretation, and communication during a short event. Public availability does not mean the data represent every relevant perspective or authorize every interpretation or use.
 
@@ -193,10 +194,10 @@ Methods, tools, or approaches we tried:
 
 | Level | Team statement |
 |---|---|
-| **What We Observed** | ... |
-| **What We Think** | ... |
-| **What We Don’t Know** | ... |
-| **What We Should Not Claim** | ... |
+| **What We Observed** | Decreasing water discharge |
+| **What We Think** | Water is moving places, might have been moving to groundwater, flowing to other rivers, or increased water consumption |
+| **What We Don’t Know** | The overall supply of usable water |
+| **What We Should Not Claim** | We are running out of water rapidly |
 
 ## What Didn’t Work { #what-didnt-work }
 
@@ -256,7 +257,7 @@ What those people should help frame, interpret, question, or review:
 
 - **Source curriculum:** [OLC Climate Resiliency and Digital Sovereignty Learning Lab](https://github.com/olc-techsupport/Education-Climate-Resiliency-Digital-Sovereignty) [@olcClimateResiliency]
 - **Code/notebooks:** ...
-- **Data and terms:** ...
+- **Data and terms:** [...](https://waterdata.usgs.gov/monitoring-location/USGS-06447000/statistics)
 - **Reuse notes:** ...
 
 If you use this template, cite the OASIS repository [@oasisProjectTemplate] and preserve attribution for every external dataset, method, and artifact.
