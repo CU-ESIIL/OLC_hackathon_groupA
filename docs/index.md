@@ -259,7 +259,7 @@ What those people should help frame, interpret, question, or review:
 
 - **Source curriculum:** [OLC Climate Resiliency and Digital Sovereignty Learning Lab](https://github.com/olc-techsupport/Education-Climate-Resiliency-Digital-Sovereignty) [@olcClimateResiliency]
 - **Code/notebooks:** ...
-- **Data and terms:** [...](https://waterdata.usgs.gov/monitoring-location/USGS-06447000/statistics)
+- **Data and terms:** [USGS DATA](https://waterdata.usgs.gov/monitoring-location/USGS-06447000/statistics)
 - **Reuse notes:** ...
 
 If you use this template, cite the OASIS repository [@oasisProjectTemplate] and preserve attribution for every external dataset, method, and artifact.
