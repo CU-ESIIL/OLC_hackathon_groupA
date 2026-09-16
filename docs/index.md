@@ -194,7 +194,7 @@ Methods, tools, or approaches we tried:
 
 | Level | Team statement |
 |---|---|
-| **What We Observed** | Decreasing water discharge |
+| **What We Observed** | Decreasing water discharge of White river near Kadoka, Increased discharge near Oglala |
 | **What We Think** | Water is moving places, might have been moving to groundwater, flowing to other rivers, or increased water consumption |
 | **What We Don’t Know** | The overall supply of usable water |
 | **What We Should Not Claim** | We are running out of water rapidly |
